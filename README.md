@@ -23,7 +23,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git](https://github.com/ahmedjavedcodes/ai-phishing-detector.git
 cd AI-Powered-Phishing-Detector
 Create a virtual environment (Recommended):
 
